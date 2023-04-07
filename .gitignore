@@ -1,0 +1,9 @@
+venv
+.venv
+
+# Migrations not to be committed
+**/migrations/*
+!**/migrations/__init__.py
+
+# Dont commit database
+*.sqlite3
