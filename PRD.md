@@ -1,6 +1,10 @@
 # Game Reviews
 A website which lets users jot down their reviews of games and other pieces of media in the future
 
+### To do
+- Expand to cover all media, TV series, Movies, Anime, Manga, etc.
+- Recommend people new media to watch based on other users' history
+
 ### Features
  - User Accounts
  - Authentication & Authorization
