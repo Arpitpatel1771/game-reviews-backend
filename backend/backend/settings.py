@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     'ImageConverter',
     'Review',
-    'UserManagement'
+    'UserManagement',
+    'Todo'
 ]
 
 MIDDLEWARE = [
